@@ -1,0 +1,40 @@
+{
+  "work": [
+    {
+      "name": "Garchomp",
+      "type": "Dragão / Terra",
+      "gender": "Sem gênero fixo",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/445.png",
+      "id": "1"
+    },
+    {
+      "name": "Tauros",
+      "type": "Normal",
+      "gender": "Sempre macho",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/128.png",
+      "id": "2"
+    },
+    {
+      "name": "Chansey",
+      "type": "Normal",
+      "gender": "Sempre fêmea",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/113.png",
+      "id": "3"
+    },
+    {
+      "name": "Magnemite",
+      "type": "Elétrico / Aço",
+      "gender": "Sem gênero",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/81.png",
+      "id": "4"
+    },
+    {
+      "name": "Suckimoon",
+      "type": "voador / fada",
+      "gender": "Sem gênero fixo",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpZtEGhWoGdDQoHqdFzTQW8N-4RnnsdCv7nrklq-RzXA&s=10",
+      "id": "nmY-JpW4vtw"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
